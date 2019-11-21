@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Nilesh Gule",
+  "author": "Mugdha Deshmukh",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.4",
